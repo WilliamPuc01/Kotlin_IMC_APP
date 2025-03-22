@@ -15,8 +15,9 @@
 - Componentes do Android: EditText, Button, TextView
 
 # 📸 Capturas de Tela 
+![Design sem nome (6)](https://github.com/user-attachments/assets/43bf4299-433f-4e20-84a8-4d1664e18408)
 
-![Design sem nome (7)](https://github.com/user-attachments/assets/c1e3713f-93f5-49a8-80ac-de750acb80da)
+
 
 
 
