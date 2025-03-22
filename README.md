@@ -15,7 +15,7 @@
 - Componentes do Android: EditText, Button, TextView
 
 # 📸 Capturas de Tela 
-<div width="100px" heigth="80px">
+<div width="1000px" heigth="800px">
   ![Captura de tela 2025-03-22 104816](https://github.com/user-attachments/assets/3ebefe72-a08c-4a74-95f1-4914fd40504f)
 </div>
 
