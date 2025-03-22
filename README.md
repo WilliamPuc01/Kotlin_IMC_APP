@@ -17,12 +17,13 @@
 # 📸 Capturas de Tela
 ![Design sem nome (8)](https://github.com/user-attachments/assets/c7fd3f2b-2972-4376-94a3-2875a368b63a)
 
+![Design sem nome (9)](https://github.com/user-attachments/assets/612c0fba-a8db-45a4-acdd-d2ee1480ae05)
 
 
 
 
 
 
-![Captura de tela 2025-03-22 104940](https://github.com/user-attachments/assets/6abc95a6-7d5e-41e8-8a52-237062459115)
+
 
 
